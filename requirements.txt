@@ -1,0 +1,5 @@
+tensorflow==1.15
+recsim
+gin-config==0.4.0
+matplotlib
+protobuf==3.20.*
